@@ -1,0 +1,28 @@
+{
+  "requirements": [
+    {
+      "bonus": false,
+      "description": "1-Sistema de Recursos Humanos",
+      "enabled": true,
+      "identifier": null,
+      "order": 1,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "2-Conta Poupança",
+      "enabled": true,
+      "identifier": null,
+      "order": 2,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "3-Pessoa Usuárias",
+      "enabled": true,
+      "identifier": null,
+      "order": 3,
+      "skill_ids": []
+    }
+  ]
+}
