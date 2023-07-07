@@ -19,9 +19,4 @@ public class PessoaUsuaria extends Pessoa {
       return nome + "." + sobrenome;
     }
   }
-
-  public static void main(String[] args) {
-    PessoaUsuaria pessoaUsuaria = new PessoaUsuaria(null, "wayne");
-    System.out.println(pessoaUsuaria.getPessoaUsuaria());
-  }
 }
